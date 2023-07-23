@@ -1,0 +1,151 @@
+.header{
+    position: fixed;
+    right:0px;
+    top:0px;
+    width: 100%;
+    height: 50px;
+    font-family: Verdana;
+    font-size: 18px;
+    background-color:  rgba(186, 85, 211);
+    z-index: 1000;
+}
+
+.body_rqst{
+    background:green;
+    height:1150px;
+}
+
+a {
+    text-decoration:none;
+    color:black;
+}
+
+.btn_menu:hover {
+    background:green ;
+}
+
+.btn_menu  {
+    height:35px;
+    text-align: center;
+    line-height: 35px;
+    border-radius: 10px;
+}
+
+.orange{
+    background-color: rgba(135, 206, 250);
+}
+
+.menu_head {
+    position: fixed;
+    top:0px;
+    left:80px;
+    width:90%;
+    box-sizing: border-box;
+    font-size:120%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height:50px;
+}
+.wew{
+    background-image: url(img/fon.jpg);
+    position: absolute;
+    width:100%;
+    height: 80%;
+    left:0px;
+    top:3px;
+}
+
+.top_text1{
+
+    font-size: 190%;
+    color:black;
+    top:4%;
+    position: absolute;
+    left: 50px;
+    right:50px;
+    line-height: 1;
+    transition: all 0.3s ease;
+}
+.fon{
+    background-image: url(img/fon.jpg);
+    position: absolute;
+    width:100%;
+    height: 80%;
+    left:0px;
+    top:3px;
+}
+
+.mag{
+    left: 20%;
+    right:20%;
+
+}
+.rad{
+    border-radius: 70px;
+    width=90%
+    margin-top: 50px;
+}
+.rad1{
+    text-align: center;
+    margin-top: 60px;
+
+}
+
+.textt{
+    font-size: 150%;
+    color:black;
+    top:50%;
+    margin-left:17px;
+    margin-right: 17px;
+}
+
+.indx2{
+    font-size: 110%;
+    justify-content: center;
+    position: relative;
+    line-height: 1.7;
+    color:black;
+    text-align: center;
+    margin-bottom:150px;
+}
+
+
+
+.bttm_line{
+    margin-top:580px;
+    height:5px;
+    left:0px;
+    background-color:#a63700;
+    width:100%;
+}
+.bttm_line1{
+    margin-top:300px;
+    height:5px;
+    left:0px;
+    background-color:#a63700;
+    width:100%;
+}
+.advnt{
+    top:100px;
+    font-size:200%;
+    color:black;
+    text-align: center;
+
+}
+table{
+    font-size:100%;
+    color:black;
+    text-align: center;
+
+}
+
+.radd{
+    border-radius: 300px;
+}
+
+.bottom{
+    font-size: 150%;
+    background-color:  #872d00;
+    width:100%;
+}
